@@ -1,0 +1,23 @@
+{
+  "name": "erpin-live2d-local-interactive",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "setup:core": "node scripts/setup-core.mjs",
+    "start": "vite --host 0.0.0.0",
+    "predev": "node scripts/setup-core.mjs",
+    "prestart": "node scripts/setup-core.mjs",
+    "prebuild": "node scripts/setup-core.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "live2d-web": "0.9.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}

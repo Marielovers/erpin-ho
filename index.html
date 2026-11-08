@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#211f31" />
+  <meta name="description" content="Live2D 인터랙티브 웹 게임" />
+  <title>그저 30초 동안 에르핀을 쓰다듬기만 하면 되는 게임</title>
+</head>
+<body>
+  <main id="stage" class="stage" aria-label="Live2D 게임 화면">
+    <div id="live2dHost" class="live2d-host" aria-label="캐릭터 클릭 및 드래그"></div>
+    <div id="effects" class="effects-layer" aria-hidden="true"></div>
+    <section id="happyEnding" class="happy-ending" aria-live="polite" hidden>
+      <p>에르핀은 영원히 행복할 겁니다</p>
+    </section>
+    <section id="splash" class="splash" aria-label="게임 시작 화면">
+      <div class="splash-content">
+        <h1>그저 30초 동안 에르핀을<br class="title-break" /> 쓰다듬기만 하면 되는 게임</h1>
+        <button id="startButton" type="button">게임 시작</button>
+      </div>
+    </section>
+    <div id="status" class="stage-message" role="status" hidden></div>
+  </main>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

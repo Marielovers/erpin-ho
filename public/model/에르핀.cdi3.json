@@ -1,0 +1,312 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "cheekhit",
+			"GroupId": "",
+			"Name": "cheekhit"
+		},
+		{
+			"Id": "facehit",
+			"GroupId": "",
+			"Name": "facehit"
+		},
+		{
+			"Id": "breasthitleft",
+			"GroupId": "",
+			"Name": "breasthitleft"
+		},
+		{
+			"Id": "breasthitright",
+			"GroupId": "",
+			"Name": "breasthitright"
+		},
+		{
+			"Id": "bellyhit",
+			"GroupId": "",
+			"Name": "bellyhit"
+		},
+		{
+			"Id": "skirtopen",
+			"GroupId": "",
+			"Name": "skirtopen"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "호흡"
+		},
+		{
+			"Id": "eyeopen",
+			"GroupId": "",
+			"Name": "eyeopen"
+		},
+		{
+			"Id": "smile",
+			"GroupId": "",
+			"Name": "smile"
+		},
+		{
+			"Id": "brow",
+			"GroupId": "",
+			"Name": "brow"
+		},
+		{
+			"Id": "tears",
+			"GroupId": "",
+			"Name": "tears"
+		},
+		{
+			"Id": "eyelight",
+			"GroupId": "",
+			"Name": "eyelight"
+		},
+		{
+			"Id": "pupil",
+			"GroupId": "",
+			"Name": "pupil"
+		},
+		{
+			"Id": "mouth1",
+			"GroupId": "",
+			"Name": "mouth1"
+		},
+		{
+			"Id": "mouth2",
+			"GroupId": "",
+			"Name": "mouth2"
+		},
+		{
+			"Id": "mouth3",
+			"GroupId": "",
+			"Name": "mouth3"
+		},
+		{
+			"Id": "mouth4",
+			"GroupId": "",
+			"Name": "mouth4"
+		},
+		{
+			"Id": "blood",
+			"GroupId": "",
+			"Name": "blood"
+		},
+		{
+			"Id": "headhand",
+			"GroupId": "",
+			"Name": "headhand"
+		},
+		{
+			"Id": "headfist",
+			"GroupId": "",
+			"Name": "headfist"
+		},
+		{
+			"Id": "breasthandleft",
+			"GroupId": "",
+			"Name": "breasthandleft"
+		},
+		{
+			"Id": "breasthandright",
+			"GroupId": "",
+			"Name": "breasthandright"
+		},
+		{
+			"Id": "bellyfist",
+			"GroupId": "",
+			"Name": "bellyfist"
+		},
+		{
+			"Id": "shy",
+			"GroupId": "",
+			"Name": "shy"
+		},
+		{
+			"Id": "sad",
+			"GroupId": "",
+			"Name": "sad"
+		},
+		{
+			"Id": "breastcolorleft",
+			"GroupId": "",
+			"Name": "breastcolorleft"
+		},
+		{
+			"Id": "breastcolorright",
+			"GroupId": "",
+			"Name": "breastcolorright"
+		},
+		{
+			"Id": "cheekcolor",
+			"GroupId": "",
+			"Name": "cheekcolor"
+		},
+		{
+			"Id": "dust",
+			"GroupId": "",
+			"Name": "dust"
+		},
+		{
+			"Id": "ojum",
+			"GroupId": "",
+			"Name": "ojum"
+		},
+		{
+			"Id": "headX",
+			"GroupId": "",
+			"Name": "headX"
+		},
+		{
+			"Id": "headY",
+			"GroupId": "",
+			"Name": "headY"
+		},
+		{
+			"Id": "hairsideX1",
+			"GroupId": "",
+			"Name": "hairsideX1"
+		},
+		{
+			"Id": "hairsideX2",
+			"GroupId": "",
+			"Name": "hairsideX2"
+		},
+		{
+			"Id": "hairsideY",
+			"GroupId": "",
+			"Name": "hairsideY"
+		},
+		{
+			"Id": "hairfrontX1",
+			"GroupId": "",
+			"Name": "hairfrontX1"
+		},
+		{
+			"Id": "hairfrontX2",
+			"GroupId": "",
+			"Name": "hairfrontX2"
+		},
+		{
+			"Id": "hairfrontY",
+			"GroupId": "",
+			"Name": "hairfrontY"
+		},
+		{
+			"Id": "hairbackX1",
+			"GroupId": "",
+			"Name": "hairbackX1"
+		},
+		{
+			"Id": "hairbackX2",
+			"GroupId": "",
+			"Name": "hairbackX2"
+		},
+		{
+			"Id": "hairbackY",
+			"GroupId": "",
+			"Name": "hairbackY"
+		},
+		{
+			"Id": "bodyX",
+			"GroupId": "",
+			"Name": "bodyX"
+		},
+		{
+			"Id": "bodyY",
+			"GroupId": "",
+			"Name": "bodyY"
+		},
+		{
+			"Id": "boobX1",
+			"GroupId": "",
+			"Name": "boobX1"
+		},
+		{
+			"Id": "boobX2",
+			"GroupId": "",
+			"Name": "boobX2"
+		},
+		{
+			"Id": "boobY1",
+			"GroupId": "",
+			"Name": "boobY1"
+		},
+		{
+			"Id": "boobY2",
+			"GroupId": "",
+			"Name": "boobY2"
+		},
+		{
+			"Id": "breastcover",
+			"GroupId": "",
+			"Name": "breastcover"
+		},
+		{
+			"Id": "skirt1X1",
+			"GroupId": "",
+			"Name": "skirt1X1"
+		},
+		{
+			"Id": "skirt1X2",
+			"GroupId": "",
+			"Name": "skirt1X2"
+		},
+		{
+			"Id": "skirt1Y",
+			"GroupId": "",
+			"Name": "skirt1Y"
+		},
+		{
+			"Id": "skirt2X1",
+			"GroupId": "",
+			"Name": "skirt2X1"
+		},
+		{
+			"Id": "skirt2X2",
+			"GroupId": "",
+			"Name": "skirt2X2"
+		},
+		{
+			"Id": "skirt2Y",
+			"GroupId": "",
+			"Name": "skirt2Y"
+		},
+		{
+			"Id": "robeX1",
+			"GroupId": "",
+			"Name": "robeX1"
+		},
+		{
+			"Id": "robeX2",
+			"GroupId": "",
+			"Name": "robeX2"
+		},
+		{
+			"Id": "robeY",
+			"GroupId": "",
+			"Name": "robeY"
+		},
+		{
+			"Id": "cheekbounceX1",
+			"GroupId": "",
+			"Name": "cheekbounceX1"
+		},
+		{
+			"Id": "cheekbounceX2",
+			"GroupId": "",
+			"Name": "cheekbounceX2"
+		},
+		{
+			"Id": "cheekbounceY",
+			"GroupId": "",
+			"Name": "cheekbounceY"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "눈"
+		}
+	]
+}

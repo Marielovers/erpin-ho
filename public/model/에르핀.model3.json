@@ -1,0 +1,101 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "에르핀.moc3",
+    "Textures": [
+      "에르핀.2048/texture_00.png"
+    ],
+    "Physics": "에르핀.physics3.json",
+    "DisplayInfo": "에르핀.cdi3.json",
+    "Motions": {
+      "cheekhit": [
+        {
+          "File": "cheekhit.motion3.json",
+          "FadeInTime": 0.12,
+          "FadeOutTime": 0.28
+        }
+      ],
+      "facehit": [
+        {
+          "File": "facehit.motion3.json",
+          "FadeInTime": 0.12,
+          "FadeOutTime": 0.28
+        }
+      ],
+      "breasthitleft": [
+        {
+          "File": "breasthitleft.motion3.json",
+          "FadeInTime": 0.12,
+          "FadeOutTime": 0.28
+        }
+      ],
+      "breasthitright": [
+        {
+          "File": "breasthitright.motion3.json",
+          "FadeInTime": 0.12,
+          "FadeOutTime": 0.28
+        }
+      ],
+      "bellyhit": [
+        {
+          "File": "bellyhit.motion3.json",
+          "FadeInTime": 0.12,
+          "FadeOutTime": 0.28
+        }
+      ],
+      "touch": [
+        {
+          "File": "touch.motion3.json",
+          "FadeInTime": 0.12,
+          "FadeOutTime": 0.28
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ],
+  "HitAreas": [
+    {
+      "Id": "HitAreacheekhit",
+      "Name": "cheekhit"
+    },
+    {
+      "Id": "HitArea_facehit",
+      "Name": "facehit"
+    },
+    {
+      "Id": "HitArea_touch",
+      "Name": "touch"
+    },
+    {
+      "Id": "HitArea_breasthitleft",
+      "Name": "breasthitleft"
+    },
+    {
+      "Id": "HitArea_breasthitright",
+      "Name": "breasthitright"
+    },
+    {
+      "Id": "HitArea_bellyhit",
+      "Name": "bellyhit"
+    },
+    {
+      "Id": "HitArea_skirtopen",
+      "Name": "skirtopen"
+    },
+    {
+      "Id": "HitArea_breasttouch",
+      "Name": "breasttouch"
+    }
+  ]
+}
