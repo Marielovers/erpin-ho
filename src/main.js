@@ -46,7 +46,7 @@ const clamp = (n, lo, hi) => Math.min(hi, Math.max(lo, n));
 // Speech uses an exclusive channel: missed lines are dropped, not queued.
 let started = false;
 function modelFit() {
-  return { scale: window.innerWidth <= 700 ? 0.9 : 0.6, offsetX: 0, offsetY: -0.4, units: 'stage' };
+  return { scale: window.innerWidth <= 700 ? 1 : 0.6, offsetX: 0, offsetY: -0.4, units: 'stage' };
 }
 let model;
 let active = null;
